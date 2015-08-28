@@ -1,0 +1,35 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\!Workplace\GitHub\match_3\match_3_v5\match_3_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.938133 ms
+CreateBoard()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CreateBoard() 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 476.
+Total: 0.439214 ms (FindLiveObjects: 0.105244 ms CreateObjectMapping: 0.030775 ms MarkObjects: 0.292556 ms  DeleteObjects: 0.007978 ms)
+

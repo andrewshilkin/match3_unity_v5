@@ -1,0 +1,11 @@
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\UnityVS.match_3_v5.CSharp.csprojResolveAssemblyReference.cache
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\Assembly-CSharp.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\Assembly-CSharp.pdb

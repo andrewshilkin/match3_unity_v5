@@ -1,0 +1,13 @@
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Assembly-CSharp.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\UnityEditor.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\UnityEngine.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\UnityEngine.UI.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Mono.Cecil.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Unity.DataContract.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\Temp\bin\Debug\Unity.CecilTools.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\Assembly-CSharp.dll
+E:\!Workplace\GitHub\match_3\match_3_v5\obj\Debug\Assembly-CSharp.pdb
